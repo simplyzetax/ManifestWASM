@@ -1,5 +1,5 @@
 > [!WARNING]  
-> Most of the code in this project is from [@ramok0/epic_manifest_parser_rs](https://github.com/ramok0/epic_manifest_parser_rs). This repository provides WebAssembly bindings for that excellent Rust library.
+> Most of the code in this project is from [@ramok0/epic_manifest_parser_rs](https://github.com/ramok0/epic_manifest_parser_rs). This repository provides WebAssembly bindings for that excellent Rust library and adds a reversal function for turning the JSON back into Manifest format
 
 # ManifestWASM
 
